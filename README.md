@@ -1,4 +1,4 @@
-![Image]"multi-tier-server-infrastructure/2-Tier Multi-AZ Server Infrastructure.png"
+![Image]"2-Tier Multi-AZ Server Infrastructure.png"
 # multi-tier-server-infrastructure
 # Deploy 2-Tier Multi-AZ Server Infrastructure
 
