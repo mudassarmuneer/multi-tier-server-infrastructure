@@ -7,7 +7,6 @@ I have completed a project involving deploying a two-tier, multi-AZ server infra
 
 - Two private Linux servers in different availability zones (AZ).
 - Two public Linux servers in different AZs.
-- Servers allocated to private and public subnets.
 - Main and custom route tables equipped with an internet gateway and NAT gateway.
 
 ## Project Overview
