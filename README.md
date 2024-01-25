@@ -1,4 +1,5 @@
-![Image]"2-Tier Multi-AZ Server Infrastructure.png"
+![2-Tier Multi-AZ Server Infrastructure](https://github.com/mudassarmuneer/multi-tier-server-infrastructure/assets/77052161/fb8edc7e-febb-47e6-af98-2b86779a4c56)
+
 # multi-tier-server-infrastructure
 # Deploy 2-Tier Multi-AZ Server Infrastructure
 
